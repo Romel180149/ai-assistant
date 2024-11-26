@@ -156,27 +156,4 @@ The AI Assistant application consists of two parts:
 
 ---
 
-## Folder Structure
 
-```plaintext
-ai-assistant
-├── backend
-│   ├── models
-│   │   └── Professional.js
-│   ├── routes
-│   │   └── assistant.js
-│   ├── .env
-│   ├── package.json
-│   ├── server.js
-│   └── vercel.json
-├── frontend
-│   ├── src
-│   │   ├── components
-│   │   │   ├── InputForm.js
-│   │   │   └── ResultDisplay.js
-│   │   ├── App.jsx
-│   │   └── index.js
-│   ├── public
-│   ├── .env
-│   ├── package.json
-│   └── tailwind.config.js
