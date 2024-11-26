@@ -1,3 +1,8 @@
+## Demo Video
+
+Watch the demo video to see how the AI Assistant works:  
+[Watch Demo Video](https://drive.google.com/file/d/1vvF1Npf_c3o6y7jYQRGvszMTPV-CS_ed/view?usp=sharing)
+
 # AI Assistant
 
 The **AI Assistant** is a full-stack application designed to help users search for professionals easily using an AI-powered search tool. It allows users to type or use voice input to perform intelligent searches and retrieve results from a database of professionals.
