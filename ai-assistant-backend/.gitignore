@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Vercel files
+.vercel
+
+# Node.js dependencies
+node_modules/
+
+# Log files
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build files
+/dist
+/out
+
+# Editor config files
+.vscode/
+.idea/

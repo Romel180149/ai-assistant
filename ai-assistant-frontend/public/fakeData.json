@@ -1,0 +1,38 @@
+[
+    {
+      "_id": "1",
+      "name": "City Hospital",
+      "category": "Healthcare",
+      "rating": 4.7,
+      "zone": ["Dhaka", "Uttara"]
+    },
+    {
+      "_id": "2",
+      "name": "Care Plus Clinic",
+      "category": "General Practice",
+      "rating": 4.5,
+      "zone": ["Banani", "Gulshan"]
+    },
+    {
+      "_id": "3",
+      "name": "Eye Care Center",
+      "category": "Eye Specialist",
+      "rating": 4.8,
+      "zone": ["Dhanmondi", "Shyamoli"]
+    },
+    {
+      "_id": "4",
+      "name": "Dental World",
+      "category": "Dentistry",
+      "rating": 4.6,
+      "zone": ["Mirpur", "Kalabagan"]
+    },
+    {
+      "_id": "5",
+      "name": "Global Health Clinic",
+      "category": "Multispecialty",
+      "rating": 4.9,
+      "zone": ["Dhaka", "Bashundhara"]
+    }
+  ]
+  
